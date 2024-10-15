@@ -91,4 +91,6 @@
             Font-weight: 700;
             Cursor:pointer;
             }
-            
+            .submit:hover {
+                background: #06337e;
+            }
